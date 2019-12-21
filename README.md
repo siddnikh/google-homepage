@@ -6,4 +6,6 @@ The Google Homepage looks like this:
 ![Google Homepage](http://upload.wikimedia.org/wikipedia/commons/9/96/Google_web_search.png)
 
 I tried to replicate it in every manner except I used a different favicon cause... I wanted to.
+Here's what I ended up with: 
+![Final Result](Result.jpg)
 
